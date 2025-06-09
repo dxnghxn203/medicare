@@ -1,0 +1,94 @@
+[
+    {
+        "route": {
+            "id": "route_1",
+            "code": "intra_province",
+            "vn_route": "Nội tỉnh",
+            "eng_route": "Intra Province"
+        },
+        "pricing": [
+            {
+                "weight_less_than_equal": 1,
+                "price": 12000
+            },
+            {
+                "weight_less_than_equal": 2,
+                "price": 15000
+            }
+        ],
+        "additional_pricing": {
+            "threshold_weight": 2,
+            "additional_price_per_step": 2500,
+            "step_weight": 0.5
+        }
+    },
+    {
+        "route": {
+            "id": "route_2",
+            "code": "same_region",
+            "vn_route": "Nội miền",
+            "eng_route": "Same Region"
+        },
+        "pricing": [
+            {
+                "weight_less_than_equal": 1,
+                "price": 13000
+            },
+            {
+                "weight_less_than_equal": 2,
+                "price": 17000
+            }
+        ],
+        "additional_pricing": {
+            "threshold_weight": 2,
+            "additional_price_per_step": 3000,
+            "step_weight": 0.5
+        }
+    },
+    {
+        "route": {
+            "id": "route_3",
+            "code": "cross_metro",
+            "vn_route": "Đặc biệt",
+            "eng_route": "Cross Metro"
+        },
+        "pricing": [
+            {
+                "weight_less_than_equal": 1,
+                "price": 15000
+            },
+            {
+                "weight_less_than_equal": 2,
+                "price": 20000
+            }
+        ],
+        "additional_pricing": {
+            "threshold_weight": 2,
+            "additional_price_per_step": 5000,
+            "step_weight": 0.5
+        }
+    },
+    {
+        "route": {
+            "id": "route_4",
+            "code": "cross_region",
+            "vn_route": "Liên miền",
+            "eng_route": "Cross Region"
+        },
+        "pricing": [
+            {
+                "weight_less_than_equal": 1,
+                "price": 20000
+            },
+            {
+                "weight_less_than_equal": 2,
+                "price": 30000
+            }
+        ],
+        "additional_pricing": {
+            "threshold_weight": 2,
+            "additional_price_per_step": 8000,
+            "step_weight": 0.5
+        }
+    }
+]

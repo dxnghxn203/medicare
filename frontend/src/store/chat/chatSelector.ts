@@ -1,0 +1,1 @@
+export const selectAllConversationWaiting = (state: any) => state.chat.allConversationWaiting;

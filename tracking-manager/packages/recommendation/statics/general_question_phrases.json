@@ -1,0 +1,80 @@
+{
+  "search_drug_by_name": [
+    "Tôi muốn tìm thuốc [TÊN_THUỐC]",
+    "Cho tôi thông tin về thuốc [TÊN_THUỐC]",
+    "Mua thuốc [TÊN_THUỐC] ở đâu?",
+    "[TÊN_THUỐC] có tác dụng gì?"
+  ],
+  "search_drug_by_symptom": [
+    "Tôi bị [TRIỆU_CHỨNG] thì uống thuốc gì?",
+    "Thuốc gì trị [TRIỆU_CHỨNG]?",
+    "Tôi đang bị [TRIỆU_CHỨNG], có thuốc nào không?",
+    "Làm sao để hết [TRIỆU_CHỨNG]?"
+  ],
+  "drug_details": [
+    "Thuốc [TÊN_THUỐC] có tác dụng gì?",
+    "Thành phần của thuốc [TÊN_THUỐC] là gì?",
+    "[TÊN_THUỐC] gồm những gì?",
+    "Công dụng của [TÊN_THUỐC]?"
+  ],
+  "dosage_advice": [
+    "Uống [TÊN_THUỐC] bao nhiêu viên một ngày?",
+    "Liều dùng của [TÊN_THUỐC] cho trẻ em là bao nhiêu?",
+    "Cách dùng [TÊN_THUỐC] như thế nào?",
+    "Ngày uống mấy lần thuốc [TÊN_THUỐC]?"
+  ],
+  "side_effects_info": [
+    "Thuốc [TÊN_THUỐC] có tác dụng phụ gì?",
+    "Tác dụng phụ của [TÊN_THUỐC] là gì?",
+    "Uống [TÊN_THUỐC] có hại không?",
+    "Dùng [TÊN_THUỐC] có sao không?"
+  ],
+  "precautions_info": [
+    "Lưu ý khi sử dụng thuốc [TÊN_THUỐC] là gì?",
+    "Cần chú ý gì khi dùng [TÊN_THUỐC]?",
+    "Những ai không nên dùng [TÊN_THUỐC]?",
+    "Khi nào không được uống [TÊN_THUỐC]?"
+  ],
+  "greeting": [
+    "Xin chào",
+    "Chào bạn",
+    "Hi",
+    "Hello"
+  ],
+  "goodbye": [
+    "Tạm biệt",
+    "Chào tạm biệt",
+    "Bye",
+    "Good bye"
+  ],
+  "affirmation": [
+    "Có",
+    "Đúng vậy",
+    "Chính xác",
+    "Ừ"
+  ],
+  "negation": [
+    "Không",
+    "Sai",
+    "Không phải",
+    "Không đúng"
+  ],
+  "clarification_request": [
+    "Ý bạn là gì?",
+    "Bạn có thể nói rõ hơn không?",
+    "Bạn muốn hỏi gì?",
+    "Bạn đang nói về cái gì?"
+  ],
+  "small_talk": [
+    "Bạn khỏe không?",
+    "Hôm nay bạn thế nào?",
+    "Thời tiết hôm nay đẹp quá!",
+    "Bạn có gì mới không?"
+  ],
+  "unknown": [
+    "Tôi không hiểu bạn nói gì.",
+    "Bạn có thể hỏi lại được không?",
+    "Tôi không biết câu trả lời.",
+    "Xin lỗi, tôi không hiểu."
+  ]
+}

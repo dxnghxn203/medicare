@@ -1,0 +1,38 @@
+[
+    {
+        "route": {
+            "id": "route_1",
+            "code": "intra_province",
+            "vn_route": "Nội tỉnh",
+            "eng_route": "Intra Province"
+        },
+        "range_time": 1
+    },
+    {
+        "route": {
+            "id": "route_2",
+            "code": "same_region",
+            "vn_route": "Nội miền",
+            "eng_route": "Same Region"
+        },
+        "range_time": 2
+    },
+    {
+        "route": {
+            "id": "route_3",
+            "code": "cross_metro",
+            "vn_route": "Đặc biệt",
+            "eng_route": "Cross Metro"
+        },
+        "range_time": 4
+    },
+    {
+        "route": {
+            "id": "route_4",
+            "code": "cross_region",
+            "vn_route": "Liên miền",
+            "eng_route": "Cross Region"
+        },
+        "range_time": 4
+    }
+]

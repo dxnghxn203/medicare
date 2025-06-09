@@ -1,0 +1,20 @@
+{
+    "data":[
+        {
+            "name": "Ngân hàng TMCP Tiên Phong",
+            "code": "TPB",
+            "bin": "970423",
+            "short_name": "TPBank",
+            "supported": true,
+            "account_number": "0799699159"
+        },
+        {
+            "name": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam",
+            "code": "BIDV",
+            "bin": "970418",
+            "short_name": "BIDV",
+            "supported": true,
+            "account_number": "3144274150"
+        }
+    ]
+}
